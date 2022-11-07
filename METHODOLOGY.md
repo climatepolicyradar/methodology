@@ -26,63 +26,65 @@ Currently (November 2022), the single source for the documents, summaries and da
 
 ## Language
 
-Our dataset contains documents published in many different languages. Non-English documents are assigned English titles, summaries and attributes.
+Our dataset contains documents published in many different languages. Non-English documents are assigned English titles, summaries and [attributes](https://github.com/climatepolicyradar/methodology/blob/main/METHODOLOGY.md#attributes).
 
 Currently, your searches will return results from all titles and summaries (regardless of language) as well as from the full text of all English documents; they do not return results from the full text of non-English documents.
 
-- ***Glimpse into the future:** we will enable search on the full text of other languages starting with French and Spanish.*
+- ***Glimpse into the future:** very soon, English-language searches will return translated results from documents in all languages. The app will also be available to use in French and Spanish.*
 
 ## Updates to the database
 
-The database is continually monitored and updated by teams of experts at Climate Policy Radar and at the LSE Grantham Research Institute, in order to ensure accuracy and to reflect the latest developments in climate law and policy. These updates are drawn from official sources such as government websites and parliamentary records.
+The database is continually monitored and updated by teams of experts at the LSE Grantham Research Institute and Climate Policy Radar, in order to ensure accuracy and to reflect the latest developments in climate law and policy. These updates are drawn from official sources such as government websites and parliamentary records.
 
 - ***Glimpse into the future:** Frequent updates are planned to incorporate new types of data — including subnational laws and policies and documents submitted to the UNFCCC — which will be collected from new sources, including a range of databases and aggregators.*
 
 ## Data structure
 
-Each entry in the database represents a single document (such as a law or a policy). Each document is assigned a title, summary and attributes (see below).
+Each entry in the database represents a single document (such as a law or a policy). Each document is assigned a title, summary and [attributes](https://github.com/climatepolicyradar/methodology/blob/main/METHODOLOGY.md#attributes).
 
-Some documents in the database are associated with one or more additional documents. Documents may be associated with each other in a number of different ways — for example, one document may be a translation of another document, or an amendment to a document.
+Some documents in the database are associated with one or more additional documents. Documents may be associated with each other in a number of different ways — for example, Greece's 2019 National Energy and Climate Plan has a Greek version and an English version. The relationship between these two documents differs from that between, for example, Nepal's 1993 Forest Act and the 2019 Amendment to the Forest Act.
+
+one document may be a translation of another document, or an amendment to a document.
 
 ## Attributes
 
-Documents in the database are assigned attributes in order to provide information about the contents of documents and to support searchability.
+Documents in the database are assigned attributes (also called metadata) in order to provide information about the contents of documents and to support searchability. 
 
-Attributes are manually assigned, and apply to entire documents.
+Attributes are manually assigned, and apply to entire documents. Most attributes and definitions used were developed by the LSE Grantham Institute; please see the section on ['Methodology of data sources'](https://github.com/climatepolicyradar/methodology/edit/main/METHODOLOGY.md#methodology-of-data-sources) for these definitions. The table below provides some additional definitions for document attributes used in the Climate Policy Radar database and app.
 
-- ***Glimpse into the future:** attributes will be automatically assigned using machine learning models, and will apply to individual paragraphs and sentences within the text of documents.*
-
-For a full list of attribute types and values, please see [our codebook](./Climate%20Policy%20Radar%20Codebook.xlsx).
-
-| **Term**     | **Definition**                                                                                                                                                                                                                                                                                                             |
+| **Attribute**     | **Definition**                                                                                                                                                                                                                                                                                                             |
 |--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Jurisdiction | A document’s jurisdiction indicates where it was published. Jurisdictions include all parties to the UN Framework Convention on Climate Change (UNFCCC) — 196 countries plus the European Union — as well as a number of territories which are not party to the UN or UNFCCC, namely Taiwan, Palestine and Western Sahara. |
 | Region       | Jurisdictions are grouped into regions of the world, as defined by the [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519).                                                                                                                                                                                                                                        |
-| Year         | Refers to the year in which a document was first published. Note - this may not be year of the most recent update or amendment to a document.                                                                                                                                                                              |
-| Legislative  | Documents categorised as legislative are those which are published on the authority of a legislative body within a country’s government, such as a parliament or assembly.                                                                                                                                                 |
-| Executive    | Documents categorised as executive are those which are published on the authority of an executive body within a country’s government, such as a president or a monarch.                                                                                                                                                    |
+| Year         | Refers to the year in which a document was first published. Note - this may not be year of the most recent update or amendment to a document.                                                                                                                                                                                                        |
+
+For a full list of the values for each attribute, please see [our codebook](./Climate%20Policy%20Radar%20Codebook.xlsx).
+
+- ***Glimpse into the future:** attributes will be automatically assigned using machine learning models, and will apply to individual paragraphs and sentences within the text of documents.*
 
 ## Data limitations
 
-The principal limitations to our dataset stem from our data collection and our data labelling process.
+The principal limitations to our dataset follow from those of our [third-party data providers](https://github.com/climatepolicyradar/methodology/edit/main/METHODOLOGY.md#methodology-of-data-sources).
 
-Updates to our database are made manually, based on monitoring of developments in climate law and policy internationally. We are developing the capacity to more efficiently capture data from additional sources, including via scraping, in order to increase the pace and scope of the expansion of our dataset.
+## Data collection methods
 
-We currently rely on data labelled manually by domain experts; this limits the pace at which it is possible for new data to be incorporated into our dataset. We are developing the capacity to automatically label data using machine learning models, to increase the efficiency, sophistication and thoroughness of our data labelling.
+We currently update our database manually, based on monitoring of developments in climate law and policy internationally. We are developing the capacity to more efficiently capture data from additional sources, including via scraping, in order to increase the pace and scope of the expansion of our dataset.
+
+We also currently rely on data labelled manually by domain experts; this limits the pace at which it is possible for new data to be incorporated into our dataset. We are developing the capacity to automatically label data using machine learning models, to increase the efficiency, sophistication and thoroughness of our data labelling.
 
 ## Natural language search
 
-Natural language search allows you to find what you’re looking for without having to type out precise keywords. This is useful because often certain concepts are described in lots of different ways - like internal combustion engines, internal combustion engine vehicle, ICEV, fossil fuel car, and gasoline car all describe most of the cars you’ll find on today’s roads. With natural language search, you can use the terms you use and hear everyday because the tool will recognise them as related and relevant terms, meaning you get a much richer search experience as a result.
+When you enter a search term, the Climate Policy Radar app uses natural language processing to allow you to find what you’re looking for without having to type out precise keywords. This is useful because often certain concepts are described in lots of different ways - like internal combustion engines, internal combustion engine vehicle, ICEV, fossil fuel car, and gasoline car all describe most of the cars you’ll find on today’s roads. With natural language search, you can use the terms you use and hear everyday because the tool will recognise them as related and relevant terms, meaning you get a much richer search experience as a result.
 
 We use a machine learning method called dense retrieval alongside a fuzzy string search to perform natural language search. You can find more details [in our blog post](https://climatepolicyradar.org/latest/building-natural-language-search-for-climate-change-laws-and-policies).
 
 ### Biases and limitations
 
-The [model](https://huggingface.co/sentence-transformers/msmarco-distilbert-dot-v5) we use for dense retrieval inherits biases from both its base model, [DistilBERT](https://huggingface.co/distilbert-base-uncased#limitations-and-bias), and the search query dataset it was trained on, [MSMARCO](https://github.com/microsoft/MSMARCO-Passage-Ranking/). It’s trained on relatively short passages of text (average 60 words in length), so may struggle with longer queries.
+The [model](https://huggingface.co/sentence-transformers/msmarco-distilbert-dot-v5) we use for dense retrieval inherits biases from both its base model, [DistilBERT](https://huggingface.co/distilbert-base-uncased#limitations-and-bias), and the search query dataset it was trained on, [MSMARCO](https://github.com/microsoft/MSMARCO-Passage-Ranking/). It’s trained on relatively short passages of text (average 60 words in length), so may struggle with queries longer than this.
 
 At the moment we use a general purpose model that has been trained on English Wikipedia and [BookCorpus](https://arxiv.org/abs/1506.06724v1). This means it may misinterpret some climate- or policy-specific concepts, and is something that we look to improve in future.
 
-For queries we’ve identified that could uncover harmful [biases](https://huggingface.co/distilbert-base-uncased#limitations-and-bias) in the underlying semantic search model, semantic search falls back to using fuzzy string search only.
+For queries we’ve identified that could uncover harmful [biases](https://huggingface.co/distilbert-base-uncased#limitations-and-bias) in the underlying semantic search model, semantic search falls back to using fuzzy string search only,which relies on matching words rather than returning related terms.
 
 ## Additions and contributions
 
