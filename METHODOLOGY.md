@@ -3,7 +3,7 @@
 ## Contents
 
 - [About this page](#about-this-page)
-- [Documents and sources] (#documents-and-sources)
+- [Documents and sources] (##Documents-and-sources)
 - [Language](#language)
 - [Updates to the database](#updates-to-the-database)
 - [Data structure](#data-structure)
@@ -24,7 +24,7 @@ This page provides information about the scope and structure of our database, ou
 As we expand and evolve, this methodology document will evolve to reflect developments. All previous versions will be linked here (this is the first one, so no previous versions yet).
 
 
-### Documents and sources
+## Documents and sources
 
 The database contains national law and policy documents and various documents submitted to the UNFCCC, including NDCs, National Communications, Biennial Reports, submissions to the Global Stocktake, IPCC reoprts and more. The sources of the documents in our database are as follows:
 
