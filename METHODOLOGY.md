@@ -14,6 +14,37 @@
 - [Methodology of data sources](#methodology-of-data-sources)
 - [Climate Change Laws of the World](#climate-change-laws-of-the-world)
 
+### Documents and sources
+
+The database contains national law and policy documents and documents submitted to the UNFCCC. 
+
+The sources of the documents in our database are as follows:
+
+| Document type | Source |
+| --- | --- |
+| National laws and policies | https://climate-laws.org/ |
+| Nationally Determined Contributions | https://unfccc.int/NDCREG |
+| Adaptation Communications | https://unfccc.int/ACR |
+| Fast-Start Finance Reports | https://unfccc.int/climatefinance?submissions |
+| IPCC Assessment Reports | https://www.ipcc.ch/reports/ |
+| Annual Compilation and Accounting Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Biennial Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Biennial Update Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Facilitative Sharing of Views Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Global Stocktake Synthesis Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Intersessional Documents | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Long-Term Low Greenhouse Gas Development Strategies | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| National Communications | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| National Inventory Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Pre-Session Documents | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Progress Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Publications | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Statements | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Submissions to the Global Stocktake | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Summary Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Synthesis Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
+| Technical Analysis Summary Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
 ## About this page
 
 Welcome to the methodology page for the [Climate Policy Radar](https://climatepolicyradar.org/) database and app, which makes it possible to find information from within the full text of a large corpus of climate law and policy documents using semantic search. This methodology page also applies to the Climate Change Laws of the World Interface for the Climate Policy Radar database.
