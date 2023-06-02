@@ -3,7 +3,7 @@
 ## Contents
 
 - [About this page](#about-this-page)
-- [Documents and sources] (##Documents-and-sources)
+- [Documents and Sources](#documents-and-sources)
 - [Language](#language)
 - [Updates to the database](#updates-to-the-database)
 - [Data structure](#data-structure)
