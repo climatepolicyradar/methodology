@@ -3,6 +3,7 @@
 ## Contents
 
 - [About this page](#about-this-page)
+- [Documents and sources] (#documents-and-sources)
 - [Language](#language)
 - [Updates to the database](#updates-to-the-database)
 - [Data structure](#data-structure)
@@ -14,11 +15,18 @@
 - [Methodology of data sources](#methodology-of-data-sources)
 - [Climate Change Laws of the World](#climate-change-laws-of-the-world)
 
+## About this page
+
+Welcome to the methodology page for the [Climate Policy Radar](https://climatepolicyradar.org/) database and app, which makes it possible to find information from within the full text of a large corpus of climate law and policy documents using semantic search. This methodology page also applies to the Climate Change Laws of the World Interface for the Climate Policy Radar database.
+
+This page provides information about the scope and structure of our database, our data collection methods and terminology, updates to the database and planned future developments.
+
+As we expand and evolve, this methodology document will evolve to reflect developments. All previous versions will be linked here (this is the first one, so no previous versions yet).
+
+
 ### Documents and sources
 
-The database contains national law and policy documents and documents submitted to the UNFCCC. 
-
-The sources of the documents in our database are as follows:
+The database contains national law and policy documents and various documents submitted to the UNFCCC, including NDCs, National Communications, Biennial Reports, submissions to the Global Stocktake, IPCC reoprts and more. The sources of the documents in our database are as follows:
 
 | Document type | Source |
 | --- | --- |
@@ -45,15 +53,7 @@ The sources of the documents in our database are as follows:
 | Summary Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
 | Synthesis Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
 | Technical Analysis Summary Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-## About this page
 
-Welcome to the methodology page for the [Climate Policy Radar](https://climatepolicyradar.org/) database and app, which makes it possible to find information from within the full text of a large corpus of climate law and policy documents using semantic search. This methodology page also applies to the Climate Change Laws of the World Interface for the Climate Policy Radar database.
-
-This page provides information about the scope and structure of our database, our data collection methods and terminology, updates to the database and planned future developments.
-
-As we expand and evolve, this methodology document will evolve to reflect developments. All previous versions will be linked here (this is the first one, so no previous versions yet).
-
-Currently (November 2022), the single source for the documents, summaries and data in this corpus is the [Climate Change Laws of the World database](https://climate-laws.org/) (CCLW) maintained by the [Grantham Research Institute on Climate Change and the Environment](https://www.lse.ac.uk/granthaminstitute/) at the [London School of Economics and Political Science](https://www.lse.ac.uk/). Please therefore see the section on [Methodology of data sources](https://www.notion.so/CPR-CCLW-combined-methodology-v1-04-11-22-3c3f6e5826b44002b801e48c5d75d1ff) for detailed methodology information on the data and metadata.
 
 ## Language
 
