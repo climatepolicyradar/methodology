@@ -61,7 +61,7 @@ Our dataset contains documents published in many different languages. Non-Englis
 
 Currently, your searches will return results from all titles and summaries (regardless of language) as well as from the full text of all English documents; they do not return results from the full text of non-English documents.
 
-- ***Glimpse into the future:** very soon, English-language searches will return translated results from documents in all languages. The app will also be available to use in French and Spanish.*
+- ***Glimpse into the future:** very soon, English-language searches will return translated results from documents in all languages. We are working towards making the app also available to use in French and Spanish.*
 
 ## Updates to the database
 
@@ -70,8 +70,6 @@ The database is continually monitored and updated by teams of experts at the LSE
 - ***Glimpse into the future:** Frequent updates are planned to incorporate new types of data — including litigation and subnational laws and policies  — which will be collected from new sources, including a range of databases and aggregators.*
 
 ## Data structure
-
-~~.~~
 
 In the Climate Policy Radar database, documents are grouped together with supplementary documents that provide additional information, such as annexes, amendments and press releases, as well as any translations or versions of the document published in other languages.
 
