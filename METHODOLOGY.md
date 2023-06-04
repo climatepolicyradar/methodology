@@ -65,17 +65,17 @@ Currently, your searches will return results from all titles and summaries (rega
 
 ## Updates to the database
 
-The database is continually monitored and updated by teams of experts at the LSE Grantham Research Institute and Climate Policy Radar, in order to ensure accuracy and to reflect the latest developments in climate law and policy. These updates are drawn from official sources such as government websites and parliamentary records.
+The database is continually monitored and updated by teams of experts at the LSE Grantham Research Institute and Climate Policy Radar, in order to ensure accuracy and to reflect the latest developments in climate law and policy. These updates are drawn from official sources such as government websites and parliamentary records, as well as UNFCCC and related websites, where applicable.
 
-- ***Glimpse into the future:** Frequent updates are planned to incorporate new types of data — including subnational laws and policies and documents submitted to the UNFCCC — which will be collected from new sources, including a range of databases and aggregators.*
+- ***Glimpse into the future:** Frequent updates are planned to incorporate new types of data — including litigation and subnational laws and policies  — which will be collected from new sources, including a range of databases and aggregators.*
 
 ## Data structure
 
-Each entry in the database represents a single document (such as a law or a policy). Each document is assigned a title, summary and [attributes](https://github.com/climatepolicyradar/methodology/blob/main/METHODOLOGY.md#attributes).
+~~.~~
 
-Some documents in the database are associated with one or more additional documents. Documents may be associated with each other in a number of different ways — for example, Greece's 2019 National Energy and Climate Plan has a Greek version and an English version. The relationship between these two documents differs from that between, for example, Nepal's 1993 Forest Act and the 2019 Amendment to the Forest Act.
+In the Climate Policy Radar database, documents are grouped together with supplementary documents that provide additional information, such as annexes, amendments and press releases, as well as any translations or versions of the document published in other languages.
 
-one document may be a translation of another document, or an amendment to a document.
+We also indicate wider relationships between documents. For example, we indicate where documents belong to an overarching policy programme (such as the European Union’s Common Agricultural Policy) or publication cycle (such as Nationally Determined Contributions).
 
 ## Attributes
 
