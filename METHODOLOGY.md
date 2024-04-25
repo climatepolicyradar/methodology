@@ -14,6 +14,7 @@
 - [Additions and contributions](#additions-and-contributions)
 - [Methodology of data sources](#methodology-of-data-sources)
 - [Climate Change Laws of the World](#climate-change-laws-of-the-world)
+- [Map projection](#map-projection)
 
 ## About this page
 
@@ -120,6 +121,10 @@ For queries we’ve identified that could uncover harmful [biases](https://hugg
 We work collaboratively with our users to keep our database at a high standard. Should you encounter any errors or inaccuracies in the data, we encourage you to get in touch with us at [support@climatepolicyradar.org](mailto:support@climatepolicyradar.org).
 
 ## Methodology of data sources
+
+## Map projection
+
+This map was made with the [Admin o - Countries](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/50m-admin-0-countries-2/) map package by [Natural Earth](https://www.naturalearthdata.com/). Climate Policy Radar's usage of this World map does not represent an opinion on any disputed boundaries.
 
 ### Climate Change Laws of the World
 
