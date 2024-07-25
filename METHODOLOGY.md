@@ -94,7 +94,7 @@ For a full list of the values for each attribute, please see [our codebook](./C
 
 ## Data limitations
 
-The principal limitations to our dataset follow from those of our [third-party data providers](https://github.com/climatepolicyradar/methodology/edit/main/METHODOLOGY.md#methodology-of-data-sources).
+The principal limitations to our dataset follow from those of our [third-party data providers](https://github.com/climatepolicyradar/methodology/blob/main/METHODOLOGY.md#documents-and-sources).
 
 ## Data collection methods
 
