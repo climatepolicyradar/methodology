@@ -2,19 +2,27 @@
 
 ## Contents
 
-- [About this page](#about-this-page)
-- [Documents and Sources](#documents-and-sources)
-- [Language](#language)
-- [Updates to the database](#updates-to-the-database)
-- [Data structure](#data-structure)
-- [Attributes](#attributes)
-- [Data limitations](#data-limitations)
-- [Natural language search](#natural-language-search)
-- [Biases and limitations](#biases-and-limitations)
-- [Additions and contributions](#additions-and-contributions)
-- [Methodology of data sources](#methodology-of-data-sources)
-- [Climate Change Laws of the World](#climate-change-laws-of-the-world)
-- [Map projection](#map-projection)
+- [CPR-CCLW combined methodology](#cpr-cclw-combined-methodology)
+  - [Contents](#contents)
+  - [About this page](#about-this-page)
+  - [Documents and sources](#documents-and-sources)
+  - [Language](#language)
+  - [Updates to the database](#updates-to-the-database)
+  - [Data structure](#data-structure)
+  - [Attributes](#attributes)
+  - [Data limitations](#data-limitations)
+  - [Data collection methods](#data-collection-methods)
+  - [Natural language search](#natural-language-search)
+    - [Biases and limitations](#biases-and-limitations)
+  - [Additions and contributions](#additions-and-contributions)
+  - [Methodology of data sources](#methodology-of-data-sources)
+  - [Map projection](#map-projection)
+    - [Climate Change Laws of the World](#climate-change-laws-of-the-world)
+      - [Introduction](#introduction)
+      - [Scope of documents included](#scope-of-documents-included)
+      - [Definitions and categorisation](#definitions-and-categorisation)
+      - [**Data collection process**](#data-collection-process)
+      - [Principles and limitations](#principles-and-limitations)
 
 ## About this page
 
@@ -24,37 +32,35 @@ This page provides information about the scope and structure of our database, ou
 
 As we expand and evolve, this methodology document will evolve to reflect developments. All previous versions will be linked here (this is the first one, so no previous versions yet).
 
-
 ## Documents and sources
 
 The database contains national law and policy documents and various documents submitted to the UNFCCC, including NDCs, National Communications, Biennial Reports, submissions to the Global Stocktake, IPCC reoprts and more. The sources of the documents in our database are as follows:
 
 | Document type | Source |
 | --- | --- |
-| National laws and policies | https://climate-laws.org/ |
-| Nationally Determined Contributions | https://unfccc.int/NDCREG |
-| Adaptation Communications | https://unfccc.int/ACR |
-| Fast-Start Finance Reports | https://unfccc.int/climatefinance?submissions |
-| IPCC Assessment Reports | https://www.ipcc.ch/reports/ |
-| Annual Compilation and Accounting Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Biennial Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Biennial Update Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Facilitative Sharing of Views Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Global Stocktake Synthesis Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Intersessional Documents | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Long-Term Low Greenhouse Gas Development Strategies | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| National Communications | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| National Inventory Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Pre-Session Documents | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Progress Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Publications | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Statements | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Submissions to the Global Stocktake | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Summary Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Synthesis Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-| Technical Analysis Summary Reports | https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id= |
-
+| National laws and policies | <https://climate-laws.org/> |
+| Nationally Determined Contributions | <https://unfccc.int/NDCREG> |
+| Adaptation Communications | <https://unfccc.int/ACR> |
+| Fast-Start Finance Reports | <https://unfccc.int/climatefinance?submissions> |
+| IPCC Assessment Reports | <https://www.ipcc.ch/reports/> |
+| Annual Compilation and Accounting Reports | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Biennial Reports | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Biennial Update Reports | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Facilitative Sharing of Views Reports | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Global Stocktake Synthesis Reports | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Intersessional Documents | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Long-Term Low Greenhouse Gas Development Strategies | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| National Communications | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| National Inventory Reports | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Pre-Session Documents | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Progress Reports | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Publications | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Reports | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Statements | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Submissions to the Global Stocktake | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Summary Reports | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Synthesis Reports | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
+| Technical Analysis Summary Reports | <https://unfccc.int/topics/global-stocktake/information-portal?field_document_topic_target_id=All&field_document_type_target_id=4174&field_calculated_author_type_target_id=All&field_document_ca_target_id=> |
 
 ## Language
 
@@ -78,7 +84,7 @@ We also indicate wider relationships between documents. For example, we indicate
 
 ## Attributes
 
-Documents in the database are assigned attributes (also called metadata) in order to provide information about the contents of documents and to support searchability. 
+Documents in the database are assigned attributes (also called metadata) in order to provide information about the contents of documents and to support searchability.
 
 Attributes are manually assigned, and apply to entire documents. Most attributes and definitions used were developed by the LSE Grantham Institute; please see the section on ['Methodology of data sources'](https://github.com/climatepolicyradar/methodology/edit/main/METHODOLOGY.md#methodology-of-data-sources) for these definitions. The table below provides some additional definitions for document attributes used in the Climate Policy Radar database and app.
 
@@ -186,7 +192,7 @@ This database covers all UNFCCC parties (196 countries plus the European Union),
 
 6.     Involve mechanisms for transparency and/or accountability.[ii]
 
-However, in the case of executive policies, we employ a broader definition than described above. Examples range from overarching multi-sectoral action plans that serve to provide a unifying basis for climate change action within a country, to documents with a narrower focus but that nonetheless establish a governance framework for a specific aspect of climate action, such as a national low-carbon energy policy. Data users interested in this sub-set of climate laws are advised to review the sub-set of laws tagged as frameworks and to use their discretion to determine which of these laws may be most relevant to their subject of inquiry. Framework documents are tagged to indicate the policy response area(s) to which they relate, whether mitigation, adaptation or disaster risk management. 
+However, in the case of executive policies, we employ a broader definition than described above. Examples range from overarching multi-sectoral action plans that serve to provide a unifying basis for climate change action within a country, to documents with a narrower focus but that nonetheless establish a governance framework for a specific aspect of climate action, such as a national low-carbon energy policy. Data users interested in this sub-set of climate laws are advised to review the sub-set of laws tagged as frameworks and to use their discretion to determine which of these laws may be most relevant to their subject of inquiry. Framework documents are tagged to indicate the policy response area(s) to which they relate, whether mitigation, adaptation or disaster risk management.
 
 **Instruments**
 
@@ -194,7 +200,7 @@ However, in the case of executive policies, we employ a broader definition than 
 
 **Sectors**
 
-**Each document is assessed to determine the most relevant sector or sectors to which it relates.** The following sectors are currently considered: Agriculture, Transport, Energy, Waste, Environment, Tourism, Land Use, Land-Use Change and Forestry (LULUCF), Industry, Buildings, Water, Health, Public Sector, and Other. Where a document relates to multiple sectors or appears cross-cutting in intention, we assign the labels ‘economy-wide’ or ‘cross-cutting area’. In some instances, multi-sectoral documents may also be categorised as related to Disaster Risk Management (DRM), Adaptation, or Social Development. We also consider whether laws relate primarily to urban or rural sectors of the economy and/or to coastal zones. We currently only cover waste laws that explicitly mention methane, another greenhouse gas, or if they deal with waste-to-energy schemes.
+**Each document is assessed to determine the most relevant sector or sectors to which it relates.** The following sectors are currently considered: Agriculture, Transport, Energy, Waste, Environment, Tourism, Land Use, Land-Use Change and Forestry (LULUCF), Industry, Buildings, Water, Health, Public Sector, and Other. Where a document relates to multiple sectors or appears cross-cutting in intention, we assign the labels ‘economy-wide’ or ‘cross-cutting area’. We also consider whether laws relate primarily to urban or rural sectors of the economy and/or to coastal zones. We currently only cover waste laws that explicitly mention methane, another greenhouse gas, or if they deal with waste-to-energy schemes.
 
 **Keywords**
 
