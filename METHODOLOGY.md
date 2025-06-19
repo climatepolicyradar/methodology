@@ -17,12 +17,12 @@
   - [Additions and contributions](#additions-and-contributions)
   - [Methodology of data sources](#methodology-of-data-sources)
   - [Map projection](#map-projection)
-    - [Climate Change Laws of the World](#climate-change-laws-of-the-world)
-      - [Introduction](#introduction)
-      - [Scope of documents included](#scope-of-documents-included)
-      - [Definitions and categorisation](#definitions-and-categorisation)
-      - [**Data collection process**](#data-collection-process)
-      - [Principles and limitations](#principles-and-limitations)
+  - [Climate Change Laws of the World](#climate-change-laws-of-the-world)
+    - [Introduction](#introduction)
+    - [Scope of documents included](#scope-of-documents-included)
+    - [Definitions and categorisation](#definitions-and-categorisation)
+    - [**Data collection process**](#data-collection-process)
+    - [Principles and limitations](#principles-and-limitations)
 
 ## About this page
 
@@ -132,7 +132,7 @@ We work collaboratively with our users to keep our database at a high standard. 
 
 This map was made with the [Admin o - Countries](https://www.naturalearthdata.com/downloads/50m-cultural-vectors/50m-admin-0-countries-2/) map package by [Natural Earth](https://www.naturalearthdata.com/). Climate Policy Radar's usage of this World map does not represent an opinion on any disputed boundaries.
 
-### Climate Change Laws of the World
+## Climate Change Laws of the World
 
 #### Introduction
 
