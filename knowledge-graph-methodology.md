@@ -1,6 +1,6 @@
 # Knowledge graph methodology
 
-This section provides a deeper dive into the processes behind building our knowledge graph. If you’re looking for a high-level explanation, see our [FAQs](https://climate-laws.org/faq). Our methodology is open source – view our [GitHub repository](https://github.com/climatepolicyradar/knowledge-graph?tab=readme-ov-file).
+This section provides a deeper dive into the processes behind building our knowledge graph. If you’re looking for a high-level explanation, see our [FAQs](https://app.climatepolicyradar.org/faq). Our methodology is open source – view our [GitHub repository](https://github.com/climatepolicyradar/knowledge-graph?tab=readme-ov-file).
 
 ## Our high-level goal
 
