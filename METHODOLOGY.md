@@ -19,7 +19,7 @@
   - [Map projection](#map-projection)
   - [Climate Change Laws of the World](#climate-change-laws-of-the-world)
   - [Multilateral Climate Funds Projects](#multilateral-climate-funds-projects)
-  - [Corporate Disclosures](#corporate-disclosures)
+  - [Corporate disclosures](#corporate-disclosures)
 
 
 ## About this page
@@ -107,4 +107,4 @@ Climate Policy Radar contains publicly available guidance documents and project 
 
 ## Corporate disclosures
 
-Climate Policy Radar now includes 900 regulatory filings, climate plans, and integrated reports published by more than 450 companies worldwide. 
+Climate Policy Radar now includes 900 regulatory filings, climate plans, and integrated reports published by more than 450 companies worldwide. Please refer to the [Corporate Disclosures Pilot Methodology(https://github.com/climatepolicyradar/methodology/blob/main/corporate-disclosures.pilot-methodology.md)] to read more about this dataset.
