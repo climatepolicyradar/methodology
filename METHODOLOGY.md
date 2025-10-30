@@ -108,3 +108,21 @@ Climate Policy Radar contains publicly available guidance documents and project 
 ## Corporate disclosures
 
 Climate Policy Radar now includes 900 regulatory filings, climate plans, and integrated reports published by more than 450 companies worldwide. Please refer to the [Corporate Disclosures Pilot Methodology](https://github.com/climatepolicyradar/methodology/blob/main/corporate-disclosures.pilot-methodology.md) to read more about this dataset.
+
+## UNFCCC submissions
+
+Our database includes country submissions to the UNFCCC including Nationally Determined Contributions (NDCs),  National Adaptation Plans (NAPs), Biennial Transparency Reports (BTRs), Long-Term Low-Emissions Development Strategies (LT-LEDs), National Inventory Reports and National Communications.  These submissions are updated regularly from the UNFCCC's website. 
+
+The database also includes all party and non-party submissions to the first global stocktake.  These documents were last downloaded from the UNFCCC portals on the 24th of May 2023, after the March 2023 cut-off date for inputs to the Global Stocktake.
+
+## CBD submissions
+
+Our database includes a collection of country submissions to the UN Convention on Biological Diversity (CBD) including Nationally Determined Biodiversity Strategies and Action Plans (NBSAPs), National Targets and National Reports. These will be continually updated to include the most recent submissions as well as additional historical submissions using the CBD's online reporting tool.
+
+## UNCCD submissions
+
+Our database includes a collection of submissions to the UN Convention on Combatting Desertification (UNCCD) including voluntary Land Degradation Neutrality Target commitments and reports and Drought Plans. These will be updated to include additional and the most up-to-date submissions as they are released on the UNCCD website, including country reports.
+
+## Offshore Wind Reports
+
+The POWER Library database includes hundreds of documents related to offshore wind globally, including industry reports, government policies, laws, strategies, and analyses from researchers and civil society. The documents in this library are curated by Ocean Energy Pathway.
