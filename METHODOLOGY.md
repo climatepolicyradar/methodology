@@ -10,7 +10,7 @@
   - [Updates to the database](#updates-to-the-database)
   - [Data structure](#data-structure)
   - [Document metadata](#document-metadata)
-  - [Knowledge graph](#knowledge-graph)
+  - [Topics](#topics)
   - [Data limitations](#data-limitations)
   - [Data collection methods](#data-collection-methods)
   - [Natural language search](#natural-language-search)
@@ -64,9 +64,9 @@ Document metadata applies to entire documents and is manually assigned. Most doc
 | Year         | Refers to the year in which a document was first published. Note - this may not be year of the most recent update or amendment to a document.                                                                                                                                                                                                        |
 
 
-## Knowledge graph
+## Topics
 
-Our knowledge graph maps key concepts in climate policy, the relationships between them, and their presence in climate policy and other related documents. This enables users to discover important topics, and identify connections between them. In the future, this will be used to improve our other applications like search and generative AI tools. Read the [knowledge graph methodology](https://github.com/climatepolicyradar/methodology/blob/main/knowledge-graph-methodology.md) for more information. 
+Our topics feature automatically identifies mentions of key climate, nature and development concepts in policy and other related documents, connected through our knowledge graph. Topics are developed by domain experts and powered by keyword and AI-based classifiers which are evaluated against human expert-labelled data. This enables users to discover important topics and unlock faster, deeper analysis of documents. In the future, this will be used to improve our other applications like search and generative AI tools. Read the [knowledge graph methodology](https://github.com/climatepolicyradar/methodology/blob/main/knowledge-graph-methodology.md) for more information.
 
 ## Data limitations
 
