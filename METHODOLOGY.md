@@ -141,4 +141,4 @@ The Climate Council Report Library includes annual reports from climate councils
 
 ## Nature-related laws and policies
 
-The Nature Policy Library is a collection of national laws, policies and UN country submissions relevant to biodiversity and nature, bringing together over 3000 national laws and policies relevant to countries' implementation of the Kunming-Montreal Global Biodiversity Framework. Please refer to the [Nature Policy Library Methodology](https://github.com/climatepolicyradar/methodology/blob/main/NaturePolicyLibrary-Methodology.md) to learn more about this data.
+The Nature Policy Library is a collection of national laws, policies and UN country submissions related to biodiversity and nature, bringing together over 3000 national laws and policies relevant to countries' implementation of the Kunming-Montreal Global Biodiversity Framework. Please refer to the [Nature Policy Library Methodology](https://github.com/climatepolicyradar/methodology/blob/main/NaturePolicyLibrary-Methodology.md) to learn more about this data.
