@@ -21,9 +21,11 @@
   - [Multilateral Climate Funds Projects](#multilateral-climate-funds-projects)
   - [Corporate disclosures](#corporate-disclosures)
   - [UNFCCC submissions](#unfccc-submissions)
+  - [First Global Stocktake submissions](#first-global-stocktake-submissions)
   - [CBD submissions](#cbd-submissions)
   - [UNCCD submissions](#unccd-submissions)
   - [Offshore Wind Reports](#offshore-wind-reports)
+  - [Nature related laws and policies](#nature-related-laws-and-policies)
 
 ## About this page
 
@@ -102,11 +104,11 @@ This map was made with the [Admin o - Countries](https://www.naturalearthdata.co
 
 ## Climate Change Laws of the World
 
-Climate Policy Radar contains laws and policies from the [Climate Change Laws of the World](https://climate-laws.org/) dataset. Please refer to the Climate Change Laws of the World [methodology](https://climate-laws.org/methodology) to read more about this dataset.
+Climate Policy Radar contains laws and policies from the [Climate Change Laws of the World](https://climate-laws.org/) dataset, maintained by the Grantham Research Institute (GRI) at LSE. Please refer to the Climate Change Laws of the World [methodology](https://climate-laws.org/methodology) to read more about this dataset.
 
 ## Multilateral Climate Funds Projects
 
-Climate Policy Radar contains publicly available guidance documents and project documentation (such as concept notes, full proposals, implementation reports) from these Multilateral Climate Funds: GCF, GEF, CIF and AF. Please refer to the Climate Project Explorer [methodology](https://climateprojectexplorer.org/methodology) to read more about this dataset.
+Climate Policy Radar contains publicly available guidance documents and project documentation (such as concept notes, full proposals, implementation reports) from these Multilateral Climate Funds: Green Climate Fund (GCF), Global Environment Facility (GEF), Climate Investment Funds (CIF) and Adaptation Fund (AF). Please refer to the Climate Project Explorer [methodology](https://climateprojectexplorer.org/methodology) to read more about this dataset.
 
 ## Corporate disclosures
 
@@ -114,18 +116,28 @@ Climate Policy Radar now includes 900 regulatory filings, climate plans, and int
 
 ## UNFCCC submissions
 
-Our database includes country submissions to the UNFCCC including Nationally Determined Contributions (NDCs),  National Adaptation Plans (NAPs), Biennial Transparency Reports (BTRs), Long-Term Low-Emissions Development Strategies (LT-LEDs), National Inventory Reports and National Communications.  These submissions are updated regularly from the UNFCCC's website. 
+Our database includes country submissions to the UNFCCC, including Nationally Determined Contributions (NDCs), National Adaptation Plans (NAPs), Biennial Transparency Reports (BTRs), Long-Term Low-Emissions Development Strategies (LT-LEDS), National Inventory Reports (NIRs) and National Communications (NCs). These submissions are updated regularly from the UNFCCC's submission portal. 
 
-The database also includes all party and non-party submissions to the first global stocktake.  These documents were last downloaded from the UNFCCC portals on the 24th of May 2023, after the March 2023 cut-off date for inputs to the Global Stocktake.
+## First Global Stocktake submissions
+
+The database also includes all Party and non-Party submissions to the first global stocktake (GST1). These documents were last downloaded from the UNFCCC portals on the 24th of May 2023, after the March 2023 cut-off date for inputs to the Global Stocktake.
 
 ## CBD submissions
 
-Our database includes a collection of country submissions to the UN Convention on Biological Diversity (CBD) including Nationally Determined Biodiversity Strategies and Action Plans (NBSAPs), National Targets and National Reports. These will be continually updated to include the most recent submissions as well as additional historical submissions using the CBD's online reporting tool.
+Our database includes a collection of country submissions to the UN Convention on Biological Diversity (CBD), including National Biodiversity Strategies and Action Plans (NBSAPs), National Targets (NTs), and National Reports (NRs). These will be continually updated to include the most recent submissions as well as additional historical submissions using the CBD's online reporting tool.
 
 ## UNCCD submissions
 
-Our database includes a collection of submissions to the UN Convention on Combatting Desertification (UNCCD) including voluntary Land Degradation Neutrality Target commitments and reports and Drought Plans. These will be updated to include additional and the most up-to-date submissions as they are released on the UNCCD website, including country reports.
+Our database includes a collection of submissions to the UN Convention to Combat Desertification (UNCCD), including voluntary Land Degradation Neutrality Targets (LDN-Ts), Country Reports (CRs), and Drought Plans (DPs). These will be updated to include the latest submissions as they are released on the UNCCD website.
 
 ## Offshore Wind Reports
 
-The POWER Library database includes hundreds of documents related to offshore wind globally, including industry reports, government policies, laws, strategies, and analyses from researchers and civil society. The documents in this library are curated by Ocean Energy Pathway.
+The POWER Library database includes hundreds of documents related to offshore wind globally, including industry reports, government policies, laws, strategies, and analyses from researchers and civil society. The documents in this library are curated by Ocean Energy Pathway (OEP).
+
+## International Climate Council Reports
+
+The Climate Council Report Library includes annual reports from climate councils around the world detailing their governments' progress towards climate targets, with reports from New Zealand, Canada, Guatemala, South Africa and the European Union. The documents in this library are curated by the International Climate Councils Network (ICCN).
+
+## Nature related laws and policies
+
+The Nature Policy Library is a collection of national laws, policies and UN country submissions relevant to biodiversity and nature, bringing together over 3000 national laws and policies relevant to countries implementation of the Kunming-Montreal Global Biodiversity Framework. Please refer to the [Nature Policy Library Methodology](https://github.com/climatepolicyradar/methodology/blob/main/NaturePolicyLibrary-Methodology.md) to learn more about this data.
