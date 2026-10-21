@@ -19,14 +19,14 @@
   - [Map projection](#map-projection)
   - [Climate Change Laws of the World](#climate-change-laws-of-the-world)
   - [Multilateral Climate Funds Projects](#multilateral-climate-funds-projects)
-  - [Corporate disclosures](#corporate-disclosures)
+  - [Corporate Disclosures](#corporate-disclosures)
   - [UNFCCC submissions](#unfccc-submissions)
   - [First Global Stocktake submissions](#first-global-stocktake-submissions)
   - [CBD submissions](#cbd-submissions)
   - [UNCCD submissions](#unccd-submissions)
   - [Offshore Wind Reports](#offshore-wind-reports)
   - [International Climate Council Reports](#international-climate-council-reports)
-  - [Nature related laws and policies](#nature-related-laws-and-policies)
+  - [Nature-related laws and policies](#nature-related-laws-and-policies)
 
 ## About this page
 
@@ -111,7 +111,7 @@ Climate Policy Radar contains laws and policies from the [Climate Change Laws of
 
 Climate Policy Radar contains publicly available guidance documents and project documentation (such as concept notes, full proposals, implementation reports) from these Multilateral Climate Funds: Green Climate Fund (GCF), Global Environment Facility (GEF), Climate Investment Funds (CIF) and Adaptation Fund (AF). Please refer to the Climate Project Explorer [methodology](https://climateprojectexplorer.org/methodology) to read more about this dataset.
 
-## Corporate disclosures
+## Corporate Disclosures
 
 Climate Policy Radar now includes 900 regulatory filings, climate plans, and integrated reports published by more than 450 companies worldwide. Please refer to the [Corporate Disclosures Pilot Methodology](https://github.com/climatepolicyradar/methodology/blob/main/corporate-disclosures.pilot-methodology.md) to read more about this dataset.
 
@@ -139,6 +139,6 @@ The POWER Library database includes hundreds of documents related to offshore wi
 
 The Climate Council Report Library includes annual reports from climate councils around the world detailing their governments' progress towards climate targets, with reports from New Zealand, Canada, Guatemala, South Africa and the European Union. The documents in this library are curated by the International Climate Councils Network (ICCN).
 
-## Nature related laws and policies
+## Nature-related laws and policies
 
-The Nature Policy Library is a collection of national laws, policies and UN country submissions relevant to biodiversity and nature, bringing together over 3000 national laws and policies relevant to countries implementation of the Kunming-Montreal Global Biodiversity Framework. Please refer to the [Nature Policy Library Methodology](https://github.com/climatepolicyradar/methodology/blob/main/NaturePolicyLibrary-Methodology.md) to learn more about this data.
+The Nature Policy Library is a collection of national laws, policies and UN country submissions relevant to biodiversity and nature, bringing together over 3000 national laws and policies relevant to countries' implementation of the Kunming-Montreal Global Biodiversity Framework. Please refer to the [Nature Policy Library Methodology](https://github.com/climatepolicyradar/methodology/blob/main/NaturePolicyLibrary-Methodology.md) to learn more about this data.
