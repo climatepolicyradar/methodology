@@ -25,6 +25,7 @@
   - [CBD submissions](#cbd-submissions)
   - [UNCCD submissions](#unccd-submissions)
   - [Offshore Wind Reports](#offshore-wind-reports)
+  - [International Climate Council Reports](#international-climate-council-reports)
   - [Nature related laws and policies](#nature-related-laws-and-policies)
 
 ## About this page
