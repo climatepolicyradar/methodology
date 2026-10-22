@@ -14,7 +14,7 @@
 | Collaboration between the Law, Environment and Justice in the Anthropocene (JUMA) research group at PUC-Rio, [the Latin American Climate Lawyers Initiative for Mobilizing Action (LACLIMA)](https://www.laclima.org/), and the [Grantham Research Institute on Climate Change at the Environment, LSE (GRI)](https://www.lse.ac.uk/granthaminstitute/) | Brazil |
 
 * Sub/national scope  
-  * We used the ISO 3166-2 which identifies the subdivisions of countries coded in ISO 3166-1 (though not all countries have ISO 3166-2 entries). It defines unique alphanumeric codes for the principal administrative subdivisions, such as states, provinces, regions, or counties, of all countries listed in ISO 3166-1. It uses a two-part format: country code \+ subdivision code (e.g. US-CA for California) and covers 5,000+ subdivisions across ISO 3166-1 geographies.  
+  * We used the ISO 3166-2 standard which identifies the subdivisions of countries coded in ISO 3166-1 (though not all countries have ISO 3166-2 entries). It defines unique alphanumeric codes for the principal administrative subdivisions, such as states, provinces, regions, or counties, of all countries listed in ISO 3166-1. It uses a two-part format: country code \+ subdivision code (e.g. US-CA for California) and covers 5,000+ subdivisions across ISO 3166-1 geographies.  
 * Definitions and classifications  
   * Category  
     * Law: we categorise documents as “Law” if they are enacted by the legislative branch of a subnational government.  
