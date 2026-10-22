@@ -30,7 +30,7 @@
 
 ## About this page
 
-The Climate Policy Radar app is the world’s largest open knowledge-base for climate law and policy. Our app allows you to search and explore the full text of 12,000+ climate laws and policies, Nationally Determined Contributions (NDCs), Biennial Transparency Reports (BTRs), corporate climate disclosures and more.
+The Climate Policy Radar app is the world’s largest open knowledge-base for climate law and policy. Our app allows you to search and explore the full text of 35,000+ climate and nature-related laws and policies, submissions to the three Rio Conventions, Multilateral Climate Finance Projects, Offshore Wind reports and more.
 
 This page provides information about the scope and structure of our database, our data collection methods and terminology, updates to the database and planned future developments.
 
