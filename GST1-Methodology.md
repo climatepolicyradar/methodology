@@ -1,4 +1,4 @@
-# **GST1 \- Global Stocktake Explorer - Methodology **
+# **GST1 \- Global Stocktake Explorer - Methodology**
 
 The first Global Stocktake concluded on 13 December 2023 at the UN climate summit COP28 in Dubai, United Arab Emirates. The Global Stocktake Explorer allows searching the full text of all the inputs to the first Global Stocktake at once. Giving you access to search through over 1,800 documents and 200,000 pages of inputs to the first Global Stocktake. Documents in all languages are auto-translated to English. 
 
