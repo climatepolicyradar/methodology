@@ -121,7 +121,7 @@ Our database includes country submissions to the UNFCCC, including Nationally De
 
 ## First Global Stocktake submissions
 
-The database also includes all Party and non-Party submissions to the first global stocktake (GST1). These documents were last downloaded from the UNFCCC portals on the 24th of May 2023, after the March 2023 cut-off date for inputs to the Global Stocktake.
+The database also includes all Party and non-Party submissions to the first global stocktake (GST1). These documents were last downloaded from the UNFCCC portals on the 24th of May 2023, after the March 2023 cut-off date for inputs to the Global Stocktake. Please refer to the [GST1 Methodology](https://github.com/climatepolicyradar/methodology/blob/main/GST1-Methodology.md) for more information.
 
 ## CBD submissions
 
