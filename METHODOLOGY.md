@@ -19,7 +19,6 @@
   - [Map projection](#map-projection)
   - [Climate Change Laws of the World](#climate-change-laws-of-the-world)
   - [Multilateral Climate Funds Projects](#multilateral-climate-funds-projects)
-  - [Corporate Disclosures](#corporate-disclosures)
   - [UNFCCC submissions](#unfccc-submissions)
   - [First Global Stocktake submissions](#first-global-stocktake-submissions)
   - [CBD submissions](#cbd-submissions)
@@ -110,10 +109,6 @@ Climate Policy Radar contains laws and policies from the [Climate Change Laws of
 ## Multilateral Climate Funds Projects
 
 Climate Policy Radar contains publicly available guidance documents and project documentation (such as concept notes, full proposals, implementation reports) from these Multilateral Climate Funds: Green Climate Fund (GCF), Global Environment Facility (GEF), Climate Investment Funds (CIF) and Adaptation Fund (AF). Please refer to the Climate Project Explorer [methodology](https://climateprojectexplorer.org/methodology) to read more about this dataset.
-
-## Corporate Disclosures
-
-Climate Policy Radar now includes 900 regulatory filings, climate plans, and integrated reports published by more than 450 companies worldwide. Please refer to the [Corporate Disclosures Pilot Methodology](https://github.com/climatepolicyradar/methodology/blob/main/corporate-disclosures.pilot-methodology.md) to read more about this dataset.
 
 ## UNFCCC submissions
 
