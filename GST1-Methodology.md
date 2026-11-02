@@ -17,17 +17,18 @@ The Global Stocktake Explorer has over 1,800 inputs to the Global Stocktake defi
 The Global Stocktake Explorer contains the following input documents:
 
 * Party submissions  
-  * Nationally Determined Contribution (NDC)  
-  * National Adaptation Plan (NAP)  
+  * Nationally Determined Contribution (NDC)    
   * Long-term Low-emission Development Strategy (LT-LEDS)  
   * Biennial Update Report (BUR)  
   * Biennial Report (BR)  
   * National Communication (NC)  
   * National Inventory Report (NIR)  
-  * Adaptation Communication (AC)  
+  * Adaptation Communication (AC)
+  * Submissions to the Global Stocktake
+  * Fast-Start Finance Report
+  * Technical Analysis Summary Report (TASR) 
 * Non-party  
   * Facilitative Sharing of Views Report (FSVR)  
-  * Fast-Start Finance Report  
   * Global Stocktake Synthesis Report  
   * Intersessional Document  
   * IPCC Report  
