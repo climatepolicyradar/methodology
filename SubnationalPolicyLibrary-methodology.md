@@ -4,7 +4,7 @@
   * The Subnational Policy Library focuses on the high-level, overarching climate response of states and regions, meaning documents like their climate change act, climate action plan or net zero strategy. Where a state or region also has a dedicated high-level mitigation or adaptation strategy, we include those alongside the overarching climate change framework. This means a state or region may have several associated documents. We do not include sector-specific policies in this initial launch of data.   
   * We only include laws and policies that are currently *active,* meaning documents must have full legal force, having passed through the legislature or through an executive decision-making body, and/or set out a current governmental policy objective or set of policy objectives.  
 * Data collection process  
-  * This data has been provided by organisations working at the forefront of subnational climate action, see listed below. Prior to their ingestion into the database, entries have gone through thorough data quality checks to ensure they meet our criteria for a high standard of data quality (e.g. source URL, DD/MM/YYYY). We also removed duplicates and standardised metadata such as document type (see definitions and classifications below). 
+  * This data has been provided by organisations working at the forefront of subnational climate action, see listed below. Prior to their ingestion into the database, entries have gone through thorough data quality checks to ensure they meet our criteria for a high standard of data quality (e.g. source URL, DD/MM/YYYY). We also standardised metadata such as document type (see definitions and classifications below). 
 
 | Provider | Coverage |
 | :---- | :---- |
