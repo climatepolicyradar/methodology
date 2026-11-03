@@ -26,6 +26,7 @@
   - [Offshore Wind Reports](#offshore-wind-reports)
   - [International Climate Council Reports](#international-climate-council-reports)
   - [Nature-related laws and policies](#nature-related-laws-and-policies)
+  - [Subnational laws and policies](#subnational-laws-and-policies) 
 
 ## About this page
 
@@ -137,3 +138,7 @@ The Climate Council Report Library includes annual reports from climate councils
 ## Nature-related laws and policies
 
 The Nature Policy Library is a collection of national laws, policies and UN country submissions related to biodiversity and nature, bringing together over 3000 national laws and policies relevant to countries' implementation of the Kunming-Montreal Global Biodiversity Framework. Please refer to the [Nature Policy Library Methodology](https://github.com/climatepolicyradar/methodology/blob/main/NaturePolicyLibrary-Methodology.md) to learn more about this data.
+
+## Subnational laws and policies
+
+The Subnational Policy Library brings together policies, action plans, and laws from over 130 states and regions across the world. Please refer to the [Subnational Policy Library Methodology](https://github.com/climatepolicyradar/methodology/blob/main/SubnationalPolicyLibrary-methodology.md) for more information.
